@@ -1,4 +1,4 @@
-## 🛡 Log File Analyzer for Intrusion Detection
+### 🛡 Log File Analyzer for Intrusion Detection
 
 ## 📌 Project Overview
 
