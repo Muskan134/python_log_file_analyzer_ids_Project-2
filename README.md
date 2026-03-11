@@ -1,6 +1,6 @@
-# 🛡 Log File Analyzer for Intrusion Detection
+## 🛡 Log File Analyzer for Intrusion Detection
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 The Log File Analyzer is a Python-based cybersecurity project designed to detect suspicious login activities from a system log file.
 
